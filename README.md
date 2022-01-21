@@ -1,15 +1,15 @@
 # Todo-app
 
-this application allow user to create certain tasks and then mark it as
+This application allow user to create certain tasks and then mark it as
 complete when it is done.
 
-some feature of app:
+Some feature of app:
 
-  -add task
-  -add subtask
-  -check completed task
-  -delete completed task
-  -delete list
-  -no. of remaining task
-  -better UX
+  -Add task
+  -Add subtask
+  -Check completed task
+  -Delete completed task
+  -Delete list
+  -No. of remaining task
+  -Better UX
   
