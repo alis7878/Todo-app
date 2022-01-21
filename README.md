@@ -13,3 +13,4 @@ Some feature of app:
   - No. of remaining task
   - Better UX
   
+Deployed on this site: https://todo-app-alis.netlify.app
